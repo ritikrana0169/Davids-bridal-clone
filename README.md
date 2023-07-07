@@ -3,7 +3,7 @@ E-commerce website
 NETLIFY LINK:https://grand-cupcake-d7b423.netlify.app
 Welcome to - 
 #  David's Bridal.com
- 
+
 David's Bridal.com 
 Home page 
 ![Screenshot (159)](https://github.com/Bhavya022/quack-cloth-4807/assets/115460646/1b4d724e-000e-4d02-9925-445f7e85c954)
